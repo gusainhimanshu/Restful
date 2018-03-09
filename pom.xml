@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.springframework</groupId>
-    <artifactId>gs-actuator-service</artifactId>
+    <artifactId>test-rest-service</artifactId>
     <version>0.1.0</version>
     
 	<packaging>jar</packaging>
@@ -34,6 +34,12 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency>
+		<!--Oracle jar  -->
+		<dependency>
+            <groupId>com.oracle</groupId>
+            <artifactId>ojdbc7</artifactId>
+            <version>12.1.0</version>
+        </dependency>
     </dependencies>
 
     <properties>

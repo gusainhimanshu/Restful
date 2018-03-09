@@ -1,4 +1,4 @@
-package hello;
+package org.himanshu.test.rest;
 
 public class Greeting {
 

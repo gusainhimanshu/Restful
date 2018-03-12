@@ -3,7 +3,7 @@
 After building the project with maven
 
 run the jar using the command 
-java -jar target/gs-actuator-service-0.1.0.jar
+java -jar target/test-rest-service-0.1.0.jar
 
 Once the server is up, you can hit the URL http://localhost:9000/hello-world
 

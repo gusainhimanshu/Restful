@@ -10,6 +10,10 @@ public class Cabin {
 	int cabinId;
 	String cabinName;
 	String cabinDescription;
+	String twinType;
+	String numberOfCabins;
+	String totalOccupancy;
+	String doubleType; 
 	/**
 	 * @return the cabinId
 	 */
